@@ -1,4 +1,4 @@
- 
+![logo](https://github.com/PriyanshuSingh-dev/PriyanshuSingh-dev/blob/main/priyanshusingh.canva.jpg) 
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img alt="coding" align="right" width="400" src="https://noclinks.net/assets/img/softwaredev.gif">
